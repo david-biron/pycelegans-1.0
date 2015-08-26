@@ -11,12 +11,6 @@ Assistant Professor
 Department of Physics
 dbiron@uchicago.edu
 
-Nicholas Labello
-Scientific Computing Consultant
-UChicago Research Computing Center
-labello@uchicago.edu
-
-
 Note
 =====
 
